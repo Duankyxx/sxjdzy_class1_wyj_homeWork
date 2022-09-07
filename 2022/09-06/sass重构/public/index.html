@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>练习</title>
+    <link rel="stylesheet" href="./scss/index.css">
+    <script src="./lib/vue.global.js"></script>
+</head>
+<body>
+  <!--盒子-->
+  <div id="app">
+    <!--顶部-->
+    <div id="top">
+        <div><img alt="图片加载失败" src="./image/logo.jpg"></div>
+        <div>
+            <button>登录</button>
+            <button>注册</button>
+        </div>
+    </div>
+    <!--内容-->
+    <div id="content">
+        <div id="cont">
+            <!--左右布局-->
+            <div id="cont_left">
+                <div v-for="(i, index) in list" :key="index">{{i}}</div>
+            </div>
+            <div id="cont_right">
+                <!--上下布局-->
+                <div>
+                    <a style="margin-left: 4%">友情链接</a>
+                    <hr style="margin: 30px 5%;">
+                </div>
+                <div>
+                    <img v-for="(i, index) in pictureList" alt="图片加载失败" :src="i">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--底部-->
+    <div id="bottom">
+        <div>
+            <div v-for="(i, index) in twoList">{{i}}</div>
+        </div>
+        <div style="text-align: center;">深圳云飞渡网络科技有限公司 版权所有 京ICP备13047874号</div>
+        <div style="text-align: center;">Coppyright ? 2018 iVmall All Rights Reserved</div>
+    </div>
+  </div>
+</body>
+<script>
+    Vue.createApp({
+        data() {
+            let list = ["公司介绍","新闻动态","联系我们","招才纳士","用户协议","常见问题","合作伙伴","友情链接","网站地图","付费协议","使用说明","友情链接"];
+            let pictureList = ["./image/lk_logo01.jpg",
+                "./image/lk_logo02.jpg",
+                "./image/lk_logo03.jpg",
+                "./image/lk_logo04.jpg",
+                "./image/lk_logo05.jpg",
+                "./image/lk_logo06.jpg",
+                "./image/lk_logo07.jpg",
+                "./image/lk_logo08.jpg",
+                "./image/lk_logo09.jpg"];
+            let twoList = ["公司介绍","新闻动态","联系我们","招商加盟","招商用户","协议合作伙伴","常见问题App","下载网站地图"];
+            return {
+                list,pictureList,twoList
+            }
+        }
+    }).mount("#app");
+</script>
+</html>

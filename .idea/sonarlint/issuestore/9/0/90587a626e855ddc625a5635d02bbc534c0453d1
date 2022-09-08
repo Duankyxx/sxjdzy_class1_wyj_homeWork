@@ -1,0 +1,480 @@
+
+Jjavascript:S3504")Unexpected var, use let or const instead.(¢ìç×üÿÿÿÿ
+xjavascript:S3776"WRefactor this function to reduce its Cognitive Complexity from 21519 to the 15 allowed.(¢ìç×üÿÿÿÿ
+Njavascript:S1117"-'map' is already declared in the upper scope.(ùÑøèıÿÿÿÿ
+mjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÆşÀèúÿÿÿÿ
+hjavascript:S4138z"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ù¢º‚
+ijavascript:S4138 "LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ù¢º‚
+ajavascript:S3358¢"DExtract this nested ternary operation into an independent statement.(å¿ÕÅ
+ajavascript:S3358¤"DExtract this nested ternary operation into an independent statement.(å¥ÇĞ
+Ojavascript:S1117±"-'val' is already declared in the upper scope.(†×µ¸ıÿÿÿÿ
+=javascript:S1186Å" Unexpected empty arrow function.(ìŒÌ
+ijavascript:S4138‘"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ªîú÷
+ajavascript:S3358¦"DExtract this nested ternary operation into an independent statement.(çıåß
+fjavascript:S3358¨"DExtract this nested ternary operation into an independent statement.(ä©¡ƒùÿÿÿÿ
+fjavascript:S3358ª"DExtract this nested ternary operation into an independent statement.(²ó³áıÿÿÿÿ
+Kjavascript:S1117ö".'last' is already declared in the upper scope.(¤Ûêá
+Rjavascript:S1117ƒ"0'effect' is already declared in the upper scope.(”Èãúÿÿÿÿ
+njavascript:S4138Ÿ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(©ê£úúÿÿÿÿ
+Mjavascript:S1117¤"0'effect' is already declared in the upper scope.(½±Ó¦
+njavascript:S4138¨"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(©ê£úúÿÿÿÿ
+Djavascript:S1788Æ""Default parameters should be last.(³«û„ıÿÿÿÿ
+Mjavascript:S1117‚"0'effect' is already declared in the upper scope.(«çºÅ
+njavascript:S4138…"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(©ê£úúÿÿÿÿ
+Kjavascript:S1117¦".'last' is already declared in the upper scope.(— ¢
+[javascript:S1121­"9Extract the assignment of "depsMap" from this expression.(ù’°‡ÿÿÿÿÿ
+Rjavascript:S1121±"5Extract the assignment of "dep" from this expression.(íşÃß
+Rjavascript:S1117¹"5'shouldTrack' is already declared in the upper scope.(Ö—ÖÔ
+Jjavascript:S1117Ù"-'key' is already declared in the upper scope.(­íÍ
+Mjavascript:S1117™"0'effect' is already declared in the upper scope.(äëŸô
+Mjavascript:S1117"0'effect' is already declared in the upper scope.(äëŸô
+Mjavascript:S1117¤"0'effect' is already declared in the upper scope.(ÖÙëœ
+Pjavascript:S1117Ş"4'isReadonly' is already declared in the upper scope.(ã‹ä7
+Ojavascript:S1117ß"-'get' is already declared in the upper scope.(‚è‰ëúÿÿÿÿ
+`javascript:S3358ì"DExtract this nested ternary operation into an independent statement.(œæı.
+ajavascript:S3358ï"DExtract this nested ternary operation into an independent statement.(÷ƒ˜ƒ
+Ojavascript:S1117’"-'set' is already declared in the upper scope.(Ã›ĞÙøÿÿÿÿ
+Qjavascript:S1117è"4'isReadonly' is already declared in the upper scope.(üğŠ¢
+Pjavascript:S1117è"3'isShallow' is already declared in the upper scope.(üğŠ¢
+Jjavascript:S1117ô"-'has' is already declared in the upper scope.(È«ëŸ
+ajavascript:S3358õ"DExtract this nested ternary operation into an independent statement.(èí³
+Qjavascript:S1117‚"4'isReadonly' is already declared in the upper scope.(Ä×Ï
+Qjavascript:S1117"4'isReadonly' is already declared in the upper scope.(º² À
+Ojavascript:S1117£"-'has' is already declared in the upper scope.(œÁ¨©ùÿÿÿÿ
+Ojavascript:S1117£"-'get' is already declared in the upper scope.(œÁ¨©ùÿÿÿÿ
+Ojavascript:S1117¸"-'has' is already declared in the upper scope.(œÁ¨©ùÿÿÿÿ
+Ojavascript:S1117¸"-'get' is already declared in the upper scope.(œÁ¨©ùÿÿÿÿ
+Qjavascript:S1117×"4'isReadonly' is already declared in the upper scope.(ŒÎ
+Pjavascript:S1117×"3'isShallow' is already declared in the upper scope.(ŒÎ
+ajavascript:S3358Ü"DExtract this nested ternary operation into an independent statement.(èí³
+Vjavascript:S1117æ"4'isReadonly' is already declared in the upper scope.(†ûİÔÿÿÿÿÿ
+Ujavascript:S1117æ"3'isShallow' is already declared in the upper scope.(†ûİÔÿÿÿÿÿ
+ajavascript:S3358î"DExtract this nested ternary operation into an independent statement.(èí³
+^javascript:S1117	"A'mutableInstrumentations' is already declared in the upper scope.(õ»âË
+^javascript:S1117	"A'shallowInstrumentations' is already declared in the upper scope.(²„ùó
+djavascript:S1117«	"B'readonlyInstrumentations' is already declared in the upper scope.(˜ıÕÍúÿÿÿÿ
+kjavascript:S1117»	"I'shallowReadonlyInstrumentations' is already declared in the upper scope.(îíãüÿÿÿÿ
+Qjavascript:S1117Ú	"4'isReadonly' is already declared in the upper scope.(ÅÕˆÁ
+`javascript:S3358Ü	"DExtract this nested ternary operation into an independent statement.(Ø„Ä
+ajavascript:S3358ß	"DExtract this nested ternary operation into an independent statement.(å¤´š
+Ojavascript:S1117ı	"-'has' is already declared in the upper scope.(¡Î‚ıÿÿÿÿ
+Yjavascript:S4624‚
+"7Refactor this code to not use nested template literals.(¸¥ÛÂşÿÿÿÿ
+Yjavascript:S4624‚
+"7Refactor this code to not use nested template literals.(¸¥ÛÂşÿÿÿÿ
+Yjavascript:S4624‚
+"7Refactor this code to not use nested template literals.(¸¥ÛÂşÿÿÿÿ
+Qjavascript:S1117¿
+"4'isReadonly' is already declared in the upper scope.(í’ÁÏ
+Ojavascript:S1117ô
+"-'ref' is already declared in the upper scope.(˜îÑÕùÿÿÿÿ
+Jjavascript:S1117€"-'ref' is already declared in the upper scope.(¹Í“–
+Ojavascript:S1117²"-'ref' is already declared in the upper scope.(“Ô¯Çüÿÿÿÿ
+Ojavascript:S1117µ"-'ref' is already declared in the upper scope.(£ŠÛåıÿÿÿÿ
+Ojavascript:S1117Î"-'get' is already declared in the upper scope.( Éƒôşÿÿÿÿ
+Ojavascript:S1117Î"-'set' is already declared in the upper scope.( Éƒôşÿÿÿÿ
+Kjavascript:S3504ü")Unexpected var, use let or const instead.(Ø‡èÔşÿÿÿÿ
+Vjavascript:S1117ş"4'isReadonly' is already declared in the upper scope.( ­”Ùúÿÿÿÿ
+Ijavascript:S1125Ñ"'Remove the unnecessary boolean literal.(»•£«şÿÿÿÿ
+Pjavascript:S1117â".'last' is already declared in the upper scope.(‘ÿûÏüÿÿÿÿ
+Tjavascript:S4624"7Refactor this code to not use nested template literals.(£Ñ´
+Tjavascript:S4624"7Refactor this code to not use nested template literals.(£Ñ´
+njavascript:S4138Û"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ÿ©Åàşÿÿÿÿ
+ijavascript:S4138ë"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Û‰²ì
+Tjavascript:S4624‚"7Refactor this code to not use nested template literals.(ü³×Ÿ
+Tjavascript:S4624‚"7Refactor this code to not use nested template literals.(ü³×Ÿ
+Mjavascript:S1117›"+'p' is already declared in the upper scope.(ÂÆİšûÿÿÿÿ
+ajavascript:S3358œ"DExtract this nested ternary operation into an independent statement.(øƒÌÛ
+Yjavascript:S1121©"7Extract the assignment of "start" from this expression.(Ù§ıøÿÿÿÿ
+Wjavascript:S1121©"5Extract the assignment of "end" from this expression.(Ù§ıøÿÿÿÿ
+Jjavascript:S1117Ú".'seen' is already declared in the upper scope.(í–¥
+:javascript:S2310å"Remove this assignment of "i".(¨…ÄK
+Kjavascript:S1117ê".'seen' is already declared in the upper scope.(é¼‚š
+Kjavascript:S1117".'seen' is already declared in the upper scope.(²„Ï¹
+Ijavascript:S1125¦"'Remove the unnecessary boolean literal.(ã½Ãûÿÿÿÿ
+Pjavascript:S1117»".'seen' is already declared in the upper scope.(æ€½¬ÿÿÿÿÿ
+Yjavascript:S4624Ä"7Refactor this code to not use nested template literals.(Ô—§¾üÿÿÿÿ
+Yjavascript:S4624Ä"7Refactor this code to not use nested template literals.(Ô—§¾üÿÿÿÿ
+Kjavascript:S3504é")Unexpected var, use let or const instead.(İ˜áÿÿÿÿÿ
+Njavascript:S1117é",'_a' is already declared in the upper scope.(İ˜áÿÿÿÿÿ
+ajavascript:S3358ø"DExtract this nested ternary operation into an independent statement.(Í£Œ§
+Ljavascript:S1117"1'version' is already declared in the upper scope.(”¸f
+Djavascript:S1125¶"'Remove the unnecessary boolean literal.(ƒ™„†
+Vjavascript:S1117È"9'isModelListener' is already declared in the upper scope.(é®îï
+Ujavascript:S1854ã"9Remove this useless assignment to variable "handlerName".(éÓán
+Yjavascript:S1121ã"=Extract the assignment of "handlerName" from this expression.(éÓán
+_javascript:S1121å"=Extract the assignment of "handlerName" from this expression.(Ë‡ç¯ûÿÿÿÿ
+Zjavascript:S1121é"=Extract the assignment of "handlerName" from this expression.(È®‡
+Jjavascript:S1117…"-'raw' is already declared in the upper scope.(Ñã‚â
+Djavascript:S1788â""Default parameters should be last.(§÷›¯ıÿÿÿÿ
+—javascript:S1172â"uRemove the unused function parameter "isNonScopedSlot" or rename it to "_isNonScopedSlot" to make intention explicit.(§÷›¯ıÿÿÿÿ
+Pjavascript:S1117“".'emit' is already declared in the upper scope.(ˆíŸ‹øÿÿÿÿ
+Rjavascript:S1117“"0'render' is already declared in the upper scope.(ˆíŸ‹øÿÿÿÿ
+Mjavascript:S1117¤"0'render' is already declared in the upper scope.(±‚ğ£
+Ijavascript:S1125¦"'Remove the unnecessary boolean literal.(„÷á™şÿÿÿÿ
+ajavascript:S3358ª"DExtract this nested ternary operation into an independent statement.(Ç«åØ
+ijavascript:S4138²"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥½¬¿
+ijavascript:S4138ú"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(æÂ—–
+ijavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÚÿÔ½
+Yjavascript:S1121©"7Extract the assignment of "vnode" from this expression.(Ÿ›çºûÿÿÿÿ
+ejavascript:S107¹"DMethod 'process' has too many parameters (10). Maximum allowed is 7.(¯¾ úÿÿÿÿ
+ljavascript:S107Ï"KFunction 'mountSuspense' has too many parameters (9). Maximum allowed is 7.(­óâÏıÿÿÿÿ
+djavascript:S1121Ô"HExtract the assignment of "suspense.pendingBranch" from this expression.(Úªû!
+ljavascript:S107å"KFunction 'patchSuspense' has too many parameters (9). Maximum allowed is 7.(ÃÃ‚íøÿÿÿÿ
+vjavascript:S107Ì"UFunction 'createSuspenseBoundary' has too many parameters (11). Maximum allowed is 7.(¾¼™©úÿÿÿÿ
+Rjavascript:S1117Ó"0'remove' is already declared in the upper scope.(Ì¶‰ıÿÿÿÿ
+Kjavascript:S1117ï"/'vnode' is already declared in the upper scope.(·H
+Ujavascript:S1117ï"9'parentComponent' is already declared in the upper scope.(·H
+Ojavascript:S1117ï"3'container' is already declared in the upper scope.(·H
+Mjavascript:S1117ÿ"0'anchor' is already declared in the upper scope.(‰ ¼Ê
+Mjavascript:S1117‘"0'parent' is already declared in the upper scope.(‡®ûå
+Qjavascript:S1117©"/'vnode' is already declared in the upper scope.(¬ä§®úÿÿÿÿ
+[javascript:S1117©"9'parentComponent' is already declared in the upper scope.(¬ä§®úÿÿÿÿ
+Ujavascript:S1117©"3'container' is already declared in the upper scope.(¬ä§®úÿÿÿÿ
+Qjavascript:S1117©"/'isSVG' is already declared in the upper scope.(¬ä§®úÿÿÿÿ
+Ljavascript:S1117¬"0'anchor' is already declared in the upper scope.(Ñ‹İ~
+Ujavascript:S1117Ã"3'container' is already declared in the upper scope.(§ŞÑ“ùÿÿÿÿ
+Rjavascript:S1117Ã"0'anchor' is already declared in the upper scope.(§ŞÑ“ùÿÿÿÿ
+Qjavascript:S1117ß"/'vnode' is already declared in the upper scope.(ô¶—šıÿÿÿÿ
+ijavascript:S107‹"MFunction 'hydrateSuspense' has too many parameters (9). Maximum allowed is 7.(ç’×
+ejavascript:S1121”"HExtract the assignment of "suspense.pendingBranch" from this expression.(¬§ƒá
+Rjavascript:S1117"0'effect' is already declared in the upper scope.(ßÕ×¤şÿÿÿÿ
+Rjavascript:S1117‘"0'effect' is already declared in the upper scope.(ÂÕ—Êùÿÿÿÿ
+Rjavascript:S1117”"0'effect' is already declared in the upper scope.(äº°Äúÿÿÿÿ
+Ijavascript:S1125ü"'Remove the unnecessary boolean literal.(‰úƒÏÿÿÿÿÿ
+Mjavascript:S1117 "0'effect' is already declared in the upper scope.(àËĞ®
+`javascript:S3358¿"DExtract this nested ternary operation into an independent statement.(ª©{
+Pjavascript:S1117à".'seen' is already declared in the upper scope.(ô«ôáüÿÿÿÿ
+ijavascript:S4138í"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ù¢º‚
+Ojavascript:S1117—"2'callHook' is already declared in the upper scope.(¡ÅçÛ
+Pjavascript:S1117Ÿ".'hook' is already declared in the upper scope.(ûÃªĞüÿÿÿÿ
+Rjavascript:S1117æ"0'remove' is already declared in the upper scope.(©–ˆùÿÿÿÿ
+Ojavascript:S1117ç"-'key' is already declared in the upper scope.(ö£•¢şÿÿÿÿ
+Ljavascript:S1117ˆ"/'vnode' is already declared in the upper scope.(œ¦ª’
+ajavascript:S3358›"DExtract this nested ternary operation into an independent statement.(•ÒˆŸ
+?javascript:S1788¬""Default parameters should be last.(÷ŞŸ’
+fjavascript:S3358´"DExtract this nested ternary operation into an independent statement.(ÀÈ‡ıÿÿÿÿ
+njavascript:S4138Å"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ß€ë‡øÿÿÿÿ
+Sjavascript:S1117è"1'resolve' is already declared in the upper scope.(†´¾ ıÿÿÿÿ
+Ijavascript:S1125˜"'Remove the unnecessary boolean literal.(‰úƒÏÿÿÿÿÿ
+Ojavascript:S1117Ô"-'ref' is already declared in the upper scope.(îêá¾şÿÿÿÿ
+‹javascript:S1172Ô"iRemove the unused function parameter "shapeFlag" or rename it to "_shapeFlag" to make intention explicit.(îêá¾şÿÿÿÿ
+…javascript:S1172Ô"cRemove the unused function parameter "parent" or rename it to "_parent" to make intention explicit.(îêá¾şÿÿÿÿ
+Tjavascript:S1117ù"2'instance' is already declared in the upper scope.(èÈàëşÿÿÿÿ
+Tjavascript:S1117"2'instance' is already declared in the upper scope.(èÈàëşÿÿÿÿ
+Mjavascript:S1117© "+'p' is already declared in the upper scope.(ÂŞºœıÿÿÿÿ
+njavascript:S4138Ç!"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‚¡Íûÿÿÿÿ
+ijavascript:S4138î""LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÙÚàŠ
+ijavascript:S4138ò""LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¸òªğ
+?javascript:S1788ˆ#""Default parameters should be last.(Ö³šÏ
+Yjavascript:S1126¹#"<Replace this if-then-else flow by a single return statement.(›â¾
+^javascript:S1121¥$"AExtract the assignment of "normalizedProps" from this expression.(ã»ü
+]javascript:S1121¾$";Extract the assignment of "cssModule" from this expression.(¨î„¢ûÿÿÿÿ
+^javascript:S1121„%"AExtract the assignment of "normalizedProps" from this expression.(óï†‚
+Jjavascript:S1117¤%"-'has' is already declared in the upper scope.(ÿˆÎ
+`javascript:S1481&">Remove the declaration of the unused 'beforeDestroy' variable.(Ë½ã¬øÿÿÿÿ
+]javascript:S1854&";Remove this useless assignment to variable "beforeDestroy".(Ë½ã¬øÿÿÿÿ
+\javascript:S1481&":Remove the declaration of the unused 'destroyed' variable.(Ë½ã¬øÿÿÿÿ
+Yjavascript:S1854&"7Remove this useless assignment to variable "destroyed".(Ë½ã¬øÿÿÿÿ
+Rjavascript:S1117&"0'render' is already declared in the upper scope.(Ë½ã¬øÿÿÿÿ
+Zjavascript:S1481…&"8Remove the declaration of the unused 'filters' variable.(Ê£ğ¯ùÿÿÿÿ
+Wjavascript:S1854…&"5Remove this useless assignment to variable "filters".(Ê£ğ¯ùÿÿÿÿ
+Jjavascript:S1117×&"-'get' is already declared in the upper scope.(¶ƒ
+fjavascript:S3358Ù&"DExtract this nested ternary operation into an independent statement.(æ İûÿÿÿÿ
+Jjavascript:S1117ß&"-'set' is already declared in the upper scope.(ÖóÕ
+?javascript:S2432í&"Setter cannot return a value.(ÍšöÍúÿÿÿÿ
+?javascript:S2432'"Setter cannot return a value.(Ô‚àÿÿÿÿÿ
+Qjavascript:S1135Ç'"4Complete the task associated to this "TODO" comment.(ŠšòÔ
+:javascript:S2432Í'"Setter cannot return a value.(èÌÛä
+Hjavascript:S1117å'"+'h' is already declared in the upper scope.(ËçëÕ
+ijavascript:S4138ï("LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥Æ¡
+njavascript:S4138À)"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Íìï ûÿÿÿÿ
+Djavascript:S1125‚*"'Remove the unnecessary boolean literal.(ìá³†
+Wjavascript:S1121Ÿ*":Extract the assignment of "camelKey" from this expression.(¡…„Ø
+njavascript:S4138²*"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Öëìùÿÿÿÿ
+Jjavascript:S1117è*"-'raw' is already declared in the upper scope.(¢Öå
+ijavascript:S4138€+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥Æ¡
+ajavascript:S3358µ+"DExtract this nested ternary operation into an independent statement.(‡êï
+„javascript:S1172Ú,"gRemove the unused function parameter "instance" or rename it to "_instance" to make intention explicit.(ß–Ì×
+Djavascript:S1125ï,"'Remove the unnecessary boolean literal.(ƒ™„†
+bjavascript:S1121-"@Extract the assignment of "instance.slots" from this expression.(ûèŞ·şÿÿÿÿ
+Rjavascript:S1117Ö-"0'render' is already declared in the upper scope.(£ËÌëøÿÿÿÿ
+Sjavascript:S1117Ö-"1'hydrate' is already declared in the upper scope.(£ËÌëøÿÿÿÿ
+Pjavascript:S1117×-"3'createApp' is already declared in the upper scope.(•ÍÁó
+Jjavascript:S1117ı."-'ref' is already declared in the upper scope.(¢Ş …
+Yjavascript:S1121„/"<Extract the assignment of "owner.refs" from this expression.(¾ğĞº
+Pjavascript:S1117Ø/"3'patchProp' is already declared in the upper scope.(ØóäË
+Mjavascript:S1117Ø/"0'remove' is already declared in the upper scope.(ØóäË
+Sjavascript:S1117Ù/"1'hydrate' is already declared in the upper scope.(€Ğø˜úÿÿÿÿ
+Ijavascript:S1125æ/"'Remove the unnecessary boolean literal.(‰í‰»şÿÿÿÿ
+Jjavascript:S1117î/"-'ref' is already declared in the upper scope.(ßö×
+Wjavascript:S1121ü/":Extract the assignment of "vnode.el" from this expression.(Û¼Êü
+^javascript:S1121œ1"<Extract the assignment of "vnodeHooks" from this expression.(€šÎŸüÿÿÿÿ
+^javascript:S1121¢1"<Extract the assignment of "vnodeHooks" from this expression.(™Š·•øÿÿÿÿ
+Ujavascript:S1117­1"3'hasWarned' is already declared in the upper scope.(šÖ…Èüÿÿÿÿ
+Ujavascript:S1117Ë1"3'hasWarned' is already declared in the upper scope.(šÖ…Èüÿÿÿÿ
+_javascript:S1121Ï1"=Extract the assignment of "children[i]" from this expression.(«Úóæùÿÿÿÿ
+[javascript:S1121í1">Extract the assignment of "vnode.anchor" from this expression.(×‰â
+Zjavascript:S1121ô1">Extract the assignment of "vnode.anchor" from this expression.(¤Ë§w
+ajavascript:S3358ü1"DExtract this nested ternary operation into an independent statement.(Š‘à©
+Kjavascript:S1117„2".'next' is already declared in the upper scope.(û´°±
+[javascript:S1481ğ2">Remove the declaration of the unused 'hostCloneNode' variable.(ÃÃ¡Ô
+Xjavascript:S1854ğ2";Remove this useless assignment to variable "hostCloneNode".(ÃÃ¡Ô
+bjavascript:S107ó2"AArrow function has too many parameters (9). Maximum allowed is 7.(¶Î²øÿÿÿÿ
+Jjavascript:S11173"-'ref' is already declared in the upper scope.(•Õ¡¦
+Yjavascript:S1121¬3"7Extract the assignment of "n2.el" from this expression.(ûÊ“Šÿÿÿÿÿ
+Tjavascript:S1121·3"7Extract the assignment of "n2.el" from this expression.(ÃˆÅø
+]javascript:S107ã3"AArrow function has too many parameters (9). Maximum allowed is 7.(Ÿã¯ô
+\javascript:S107ì3"AArrow function has too many parameters (8). Maximum allowed is 7.(¦®µy
+\javascript:S1481ï3":Remove the declaration of the unused 'patchFlag' variable.(©úÍüÿÿÿÿ
+Yjavascript:S1854ï3"7Remove this useless assignment to variable "patchFlag".(©úÍüÿÿÿÿ
+]javascript:S11214";Extract the assignment of "vnodeHook" from this expression.(Ùß÷Öøÿÿÿÿ
+Xjavascript:S1121­4";Extract the assignment of "vnodeHook" from this expression.(íñÌÖ
+ijavascript:S4138¼4"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(šİğÕ
+bjavascript:S107Í4"AArrow function has too many parameters (9). Maximum allowed is 7.(˜ªüıúÿÿÿÿ
+]javascript:S1121à4";Extract the assignment of "vnodeHook" from this expression.(­Ù¥ãÿÿÿÿÿ
+njavascript:S4138—5"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Íìï ûÿÿÿÿ
+]javascript:S1121®5";Extract the assignment of "vnodeHook" from this expression.(¤‹…çøÿÿÿÿ
+bjavascript:S107ç5"AArrow function has too many parameters (9). Maximum allowed is 7.(¢Ğ‹ñúÿÿÿÿ
+]javascript:S107 6"AArrow function has too many parameters (9). Maximum allowed is 7.(áéÆ
+Vjavascript:S1135Ê6"4Complete the task associated to this "TODO" comment.(ù“§íüÿÿÿÿ
+]javascript:S1121ê7";Extract the assignment of "vnodeHook" from this expression.(ı»Ï¤şÿÿÿÿ
+]javascript:S11218";Extract the assignment of "vnodeHook" from this expression.(°¢¸Ëıÿÿÿÿ
+Rjavascript:S1117›8"0'effect' is already declared in the upper scope.(÷ç…Øøÿÿÿÿ
+]javascript:S107º8"AArrow function has too many parameters (9). Maximum allowed is 7.(ØÒÿË
+]javascript:S107ğ8"AArrow function has too many parameters (9). Maximum allowed is 7.(¢¡§à
+]javascript:S107‡9"AArrow function has too many parameters (9). Maximum allowed is 7.(›ŒøÉ
+Yjavascript:S1121¹9"7Extract the assignment of "c2[i]" from this expression.(¿„´€ùÿÿÿÿ
+ijavascript:S4138Â:"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥½¬¿
+Ljavascript:S1117Ø:"0'remove' is already declared in the upper scope.(Õ§‡N
+Jjavascript:S1117ì:"-'ref' is already declared in the upper scope.(„Çóğ
+Mjavascript:S1117¥;"0'remove' is already declared in the upper scope.(´­»“
+Mjavascript:S1117˜<"0'render' is already declared in the upper scope.(Ÿíã
+Sjavascript:S1117±<"1'hydrate' is already declared in the upper scope.(„õˆ³ÿÿÿÿÿ
+Mjavascript:S1117¼<"0'effect' is already declared in the upper scope.(Ğ²Œ
+Mjavascript:S1117å<"+'p' is already declared in the upper scope.(¾˜²ƒøÿÿÿÿ
+ejavascript:S107­="DMethod 'process' has too many parameters (10). Maximum allowed is 7.(«ßÔüÿÿÿÿ
+Pjavascript:S1117É="3'container' is already declared in the upper scope.(Û°™
+Mjavascript:S1117É="0'anchor' is already declared in the upper scope.(Û°™
+‹javascript:S1172†>"iRemove the unused function parameter "optimized" or rename it to "_optimized" to make intention explicit.(’¶±¡ıÿÿÿÿ
+ijavascript:S4138>"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥½¬¿
+ijavascript:S4138ª>"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥½¬¿
+njavascript:S107´>"MFunction 'hydrateTeleport' has too many parameters (8). Maximum allowed is 7.(ØŸ†øÿÿÿÿ
+`javascript:S1121õ>">Extract the assignment of "currentBlock" from this expression.(Ôµóõÿÿÿÿÿ
+Ojavascript:S1117Ì?"-'ref' is already declared in the upper scope.(çêÙıÿÿÿÿ
+ajavascript:S3358Î?"DExtract this nested ternary operation into an independent statement.(Ú©©¥
+ijavascript:S107Ó?"MFunction 'createBaseVNode' has too many parameters (8). Maximum allowed is 7.(Ô›æ
+njavascript:S1764ş?"LCorrect one of the identical sub-expressions on both sides of operator "!=="(ÖÛÜğüÿÿÿÿ
+ajavascript:S3358Æ@"DExtract this nested ternary operation into an independent statement.(®×ç®
+fjavascript:S3358È@"DExtract this nested ternary operation into an independent statement.(’¦êãşÿÿÿÿ
+fjavascript:S3358Ê@"DExtract this nested ternary operation into an independent statement.(áíŞşÿÿÿÿ
+ajavascript:S3358Ì@"DExtract this nested ternary operation into an independent statement.(î¦ü
+Ojavascript:S1117â@"-'ref' is already declared in the upper scope.(ÙÜÈ£øÿÿÿÿ
+€javascript:S1488ä@"^Immediately return this expression instead of assigning it to the temporary variable "cloned".(ø‹àıÿÿÿÿ
+ajavascript:S3358î@"DExtract this nested ternary operation into an independent statement.(®·«ú
+fjavascript:S3358ï@"DExtract this nested ternary operation into an independent statement.(“‰şşÿÿÿÿ
+fjavascript:S3358‚A"DExtract this nested ternary operation into an independent statement.(‡»¶ şÿÿÿÿ
+njavascript:S4138“B"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Áãîıÿÿÿÿ
+Kjavascript:S3504­C")Unexpected var, use let or const instead.(Ø‡èÔşÿÿÿÿ
+Njavascript:S1117­C",'_a' is already declared in the upper scope.(Ø‡èÔşÿÿÿÿ
+ijavascript:S4138µC"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(øğ„ò
+ijavascript:S4138»C"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(øğ„ò
+Šjavascript:S1172£D"mRemove the unused function parameter "skipOptions" or rename it to "_skipOptions" to make intention explicit.(¸’¿ƒ
+fjavascript:S3358²E"DExtract this nested ternary operation into an independent statement.(øóŠúÿÿÿÿ
+‚javascript:S1172ÛE"eRemove the unused function parameter "exposed" or rename it to "_exposed" to make intention explicit.(¥ïñ›
+ƒjavascript:S1172òE"aRemove the unused function parameter "props" or rename it to "_props" to make intention explicit.(ÎË‹•şÿÿÿÿ
+‰javascript:S1172òE"gRemove the unused function parameter "defaults" or rename it to "_defaults" to make intention explicit.(ÎË‹•şÿÿÿÿ
+Mjavascript:S1117ŒF"+'p' is already declared in the upper scope.(ÿË­“úÿÿÿÿ
+Bjavascript:S878ŒF"!Unexpected use of comma operator.(ÿË­“úÿÿÿÿ
+Pjavascript:S1135…G"4Complete the task associated to this "TODO" comment.(ÉÃ¯O
+Sjavascript:S4624G"7Refactor this code to not use nested template literals.(óÒ­/
+Sjavascript:S4624G"7Refactor this code to not use nested template literals.(óÒ­/
+Ojavascript:S1117ÄG"2'computed' is already declared in the upper scope.(œœª×
+Mjavascript:S1117µH"0'render' is already declared in the upper scope.(ºñßé
+[javascript:S1121½H">Extract the assignment of "cache[index]" from this expression.(ŞßÉÇ
+ajavascript:S3358ğH"DExtract this nested ternary operation into an independent statement.(Œ³ç
+Tjavascript:S1121¢I"7Extract the assignment of "start" from this expression.(”Ò·ë
+hjavascript:S1121”J"FExtract the assignment of "prefixCache[rawName]" from this expression.(çµÕşÿÿÿÿ
+njavascript:S4138—J"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(­¬±Úúÿÿÿÿ
+hjavascript:S1121šJ"FExtract the assignment of "prefixCache[rawName]" from this expression.(îÁ÷üÿÿÿÿ
+‰javascript:S1172¡J"gRemove the unused function parameter "instance" or rename it to "_instance" to make intention explicit.(ÿÊìıÿÿÿÿ
+Ujavascript:S1117­J"3'isBoolean' is already declared in the upper scope.(ƒ·ÙÏûÿÿÿÿ
+Njavascript:S1117ıJ"1'_getNow' is already declared in the upper scope.(Ê…ïµ
+^javascript:S1117şJ"<'skipTimestampCheck' is already declared in the upper scope.(˜âšÖşÿÿÿÿ
+…javascript:S1172ŸK"iRemove the unused function parameter "prevValue" or rename it to "_prevValue" to make intention explicit.(­×»W
+Hjavascript:S1117ÛK"+'e' is already declared in the upper scope.(ÔÚÕ³
+?javascript:S1788ãK""Default parameters should be last.(ë‡³¨
+]javascript:S107ãK"AArrow function has too many parameters (9). Maximum allowed is 7.(ë‡³¨
+ajavascript:S3358òK"DExtract this nested ternary operation into an independent statement.( ´´×
+Yjavascript:S1126L"<Replace this if-then-else flow by a single return statement.(úğÅô
+Mjavascript:S1117¯L"1'hydrate' is already declared in the upper scope.(Ò‚C
+?javascript:S1788ÀL""Default parameters should be last.(î•¹
+Njavascript:S1117ÀL"1'hydrate' is already declared in the upper scope.(î•¹
+njavascript:S4138îL"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‰Ğ©üÿÿÿÿ
+Njavascript:S1117÷L"1'resolve' is already declared in the upper scope.(äÏ•¶
+Jjavascript:S1117÷L"-'def' is already declared in the upper scope.(äÏ•¶
+fjavascript:S3358úL"DExtract this nested ternary operation into an independent statement.(ıã»£ùÿÿÿÿ
+javascript:S1172†N"_Remove the unused function parameter "name" or rename it to "_name" to make intention explicit.(Áªçöúÿÿÿÿ
+Mjavascript:S1117êN"+'h' is already declared in the upper scope.(¾Äá›ıÿÿÿÿ
+ajavascript:S3358öN"DExtract this nested ternary operation into an independent statement.( •Æá
+Mjavascript:S1117÷N"+'h' is already declared in the upper scope.(èœØŸøÿÿÿÿ
+Sjavascript:S1117™O"1'resolve' is already declared in the upper scope.(ÏÄçÊúÿÿÿÿ
+Njavascript:S1117³O"1'resolve' is already declared in the upper scope.(‹ì—
+Sjavascript:S1117ƒP"1'resolve' is already declared in the upper scope.(ëàÌèûÿÿÿÿ
+fjavascript:S3358ÃP"DExtract this nested ternary operation into an independent statement.(æÏ¹¾şÿÿÿÿ
+`javascript:S3358ÈP"DExtract this nested ternary operation into an independent statement.(«‚Æ
+ijavascript:S4138Q"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥½¬¿
+njavascript:S4138§Q"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(’÷¹€ûÿÿÿÿ
+ajavascript:S3358úR"DExtract this nested ternary operation into an independent statement.(üÒõı
+njavascript:S4138ìS"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(“¡¾¨úÿÿÿÿ
+jjavascript:S107€W"NFunction 'createVNodeCall' has too many parameters (11). Maximum allowed is 7.(àÜ”ã
+Rjavascript:S1117€W"5'isComponent' is already declared in the upper scope.(àÜ”ã
+Njavascript:S1117İW"1'isVNode' is already declared in the upper scope.(¥±Öò
+Hjavascript:S1117îW"+'p' is already declared in the upper scope.(¦´‰É
+qjavascript:S5850şW"TGroup parts of the regex together to make the intended operator precedence explicit.(ÜÊÊ’
+ijavascript:S4138úX"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ş¯õ
+Mjavascript:S1117ûX"+'p' is already declared in the upper scope.(ˆˆå‘şÿÿÿÿ
+ijavascript:S4138„Y"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ş¯õ
+Mjavascript:S1117…Y"+'p' is already declared in the upper scope.(ˆˆå‘şÿÿÿÿ
+Mjavascript:S1117˜Y"+'p' is already declared in the upper scope.(§Ìò—øÿÿÿÿ
+Mjavascript:S1117¢Y"+'p' is already declared in the upper scope.(å¸ãÂøÿÿÿÿ
+Wjavascript:S1117«Y"5'isComponent' is already declared in the upper scope.(Û›ËŞøÿÿÿÿ
+Rjavascript:S1117®Y"5'isComponent' is already declared in the upper scope.(¾´ùï
+Hjavascript:S1117ğY"+'p' is already declared in the upper scope.(ŒÅ‹¾
+Yjavascript:S4624["7Refactor this code to not use nested template literals.(»Ç„øÿÿÿÿ
+Yjavascript:S4624["7Refactor this code to not use nested template literals.(»Ç„øÿÿÿÿ
+njavascript:S4138‡\"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ê™½½øÿÿÿÿ
+Mjavascript:S1117Ù]"+'p' is already declared in the upper scope.(ŸĞñ‘ÿÿÿÿÿ
+Gjavascript:S1117ß]"+'p' is already declared in the upper scope.(Ñ¨»b
+Mjavascript:S1117ö]"+'p' is already declared in the upper scope.(êÙÏ¨ùÿÿÿÿ
+ijavascript:S4138˜^"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ƒÅñ†
+Gjavascript:S1117™^"+'p' is already declared in the upper scope.(íày
+Qjavascript:S1135£^"4Complete the task associated to this "TODO" comment.(÷ÒÏù
+Djavascript:S1125«^"'Remove the unnecessary boolean literal.(ª±‚İ
+kjavascript:S1871¬^"OThis branch's code block is the same as the block for the branch on line 12068.(û¤Òk
+Ljavascript:S1117ô^"/'match' is already declared in the upper scope.(‚ë‹ï
+qjavascript:S5843ô^"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(‚ë‹ï
+ajavascript:S3358ù^"DExtract this nested ternary operation into an independent statement.(›¸æÙ
+Jjavascript:S1117€_"-'loc' is already declared in the upper scope.(Â¤á
+ijavascript:S4138`"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(£°à
+Qjavascript:S1135Ü`"4Complete the task associated to this "TODO" comment.(§×Ó
+ijavascript:S4138Ša"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥½¬¿
+Wjavascript:S1117¸a"5'isComponent' is already declared in the upper scope.(Ã‹Úğùÿÿÿÿ
+njavascript:S4138Æa"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÖˆÃÔıÿÿÿÿ
+Mjavascript:S1117Æa"+'i' is already declared in the upper scope.(ÖˆÃÔıÿÿÿÿ
+Qjavascript:S1117ğa"4'returnType' is already declared in the upper scope.(Ø²¶¢
+njavascript:S4138ÿa"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‡«´ªıÿÿÿÿ
+ijavascript:S4138b"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ş¯õ
+Mjavascript:S1117b"+'p' is already declared in the upper scope.(ˆˆå‘şÿÿÿÿ
+ijavascript:S4138¡b"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ş¯õ
+Mjavascript:S1117¢b"+'p' is already declared in the upper scope.(ˆˆå‘şÿÿÿÿ
+njavascript:S4138Âb"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‡«´ªıÿÿÿÿ
+ijavascript:S4138îb"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(üòµ²
+Wjavascript:S1117™c"5'hoistStatic' is already declared in the upper scope.(ûë×®ÿÿÿÿÿ
+ajavascript:S3358ïc"DExtract this nested ternary operation into an independent statement.(¹Çï›
+Jjavascript:S1186„d"(Unexpected empty method 'onNodeRemoved'.(Ã¾–Æıÿÿÿÿ
+zjavascript:S1172…d"]Remove the unused function parameter "exp" or rename it to "_exp" to make intention explicit.(ÃÍĞã
+Fjavascript:S1186…d")Unexpected empty method 'addIdentifiers'.(ÃÍĞã
+zjavascript:S1172‡d"]Remove the unused function parameter "exp" or rename it to "_exp" to make intention explicit.(Ã·˜†
+Ijavascript:S1186‡d",Unexpected empty method 'removeIdentifiers'.(Ã·˜†
+Sjavascript:S1117‘d"1'isVNode' is already declared in the upper scope.(ÅŠğÁúÿÿÿÿ
+ijavascript:S4138ád"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÎåÆ€
+Hjavascript:S1117ád"+'i' is already declared in the upper scope.(ÎåÆ€
+ijavascript:S4138„e"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ïÎøÇ
+Hjavascript:S1117„e"+'i' is already declared in the upper scope.(ïÎøÇ
+Njavascript:S1117—e"1'matches' is already declared in the upper scope.(Ô¤‘¡
+:javascript:S2310ªe"Remove this assignment of "i".(¨…ÄK
+javascript:S1172Ğe"_Remove the unused function parameter "node" or rename it to "_node" to make intention explicit.(Ùš€Åùÿÿÿÿ
+Ujavascript:S1481ëe"8Remove the declaration of the unused 'scopeId' variable.(İœ·è
+Rjavascript:S1854ëe"5Remove this useless assignment to variable "scopeId".(İœ·è
+Yjavascript:S4624˜f"7Refactor this code to not use nested template literals.(™È‘äüÿÿÿÿ
+Yjavascript:S4624˜f"7Refactor this code to not use nested template literals.(™È‘äüÿÿÿÿ
+Qjavascript:S1481¸f"4Remove the declaration of the unused 'ssr' variable.(†Üã
+Njavascript:S1854¸f"1Remove this useless assignment to variable "ssr".(†Üã
+_javascript:S1481¸f"BRemove the declaration of the unused 'prefixIdentifiers' variable.(†Üã
+\javascript:S1854¸f"?Remove this useless assignment to variable "prefixIdentifiers".(†Üã
+_javascript:S1481¸f"BRemove the declaration of the unused 'runtimeModuleName' variable.(†Üã
+\javascript:S1854¸f"?Remove this useless assignment to variable "runtimeModuleName".(†Üã
+bjavascript:S1481¸f"ERemove the declaration of the unused 'ssrRuntimeModuleName' variable.(†Üã
+_javascript:S1854¸f"BRemove this useless assignment to variable "ssrRuntimeModuleName".(†Üã
+Tjavascript:S4624äf"7Refactor this code to not use nested template literals.(Ş«Å
+Tjavascript:S4624äf"7Refactor this code to not use nested template literals.(Ş«Å
+Tjavascript:S4624äf"7Refactor this code to not use nested template literals.(Ş«Å
+Tjavascript:S4624äf"7Refactor this code to not use nested template literals.(Ş«Å
+Yjavascript:S1481ïf"7Remove the declaration of the unused 'helper' variable.(º¹®îşÿÿÿÿ
+Vjavascript:S1854ïf"4Remove this useless assignment to variable "helper".(º¹®îşÿÿÿÿ
+Zjavascript:S1481ïf"8Remove the declaration of the unused 'scopeId' variable.(º¹®îşÿÿÿÿ
+Wjavascript:S1854ïf"5Remove this useless assignment to variable "scopeId".(º¹®îşÿÿÿÿ
+Wjavascript:S1481ïf"5Remove the declaration of the unused 'mode' variable.(º¹®îşÿÿÿÿ
+Tjavascript:S1854ïf"2Remove this useless assignment to variable "mode".(º¹®îşÿÿÿÿ
+Yjavascript:S4624ôf"7Refactor this code to not use nested template literals.(Ö×øÚşÿÿÿÿ
+„javascript:S1488ñg"gImmediately return this expression instead of assigning it to the temporary variable "exhaustiveCheck".(¦£ıÈ
+njavascript:S4138†h"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‡«´ªıÿÿÿÿ
+Rjavascript:S1117«h"5'isComponent' is already declared in the upper scope.(à‹ó©
+Tjavascript:S4624°h"7Refactor this code to not use nested template literals.(öê¯€
+Tjavascript:S4624°h"7Refactor this code to not use nested template literals.(öê¯€
+Mjavascript:S1117ßh"+'p' is already declared in the upper scope.(ì¦†€ÿÿÿÿÿ
+vjavascript:S5843Şi"TSimplify this regular expression to reduce its complexity from 34 to the 20 allowed.(ôÉô­ÿÿÿÿÿ
+fjavascript:S3358îi"DExtract this nested ternary operation into an independent statement.(‰î‘œÿÿÿÿÿ
+Yjavascript:S4624îi"7Refactor this code to not use nested template literals.(‰î‘œÿÿÿÿÿ
+Yjavascript:S4624îi"7Refactor this code to not use nested template literals.(‰î‘œÿÿÿÿÿ
+ijavascript:S4138‚j"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ş¯õ
+†javascript:S1172 j"iRemove the unused function parameter "localVars" or rename it to "_localVars" to make intention explicit.(Í ƒ÷
+ajavascript:S3358˜l"DExtract this nested ternary operation into an independent statement.(Ï“Ñ
+fjavascript:S3358°l"DExtract this nested ternary operation into an independent statement.(ÀÃ€Æıÿÿÿÿ
+\javascript:S1481‡m"?Remove the declaration of the unused 'addIdentifiers' variable.(šƒƒí
+Yjavascript:S1854‡m"<Remove this useless assignment to variable "addIdentifiers".(šƒƒí
+_javascript:S1481‡m"BRemove the declaration of the unused 'removeIdentifiers' variable.(šƒƒí
+\javascript:S1854‡m"?Remove this useless assignment to variable "removeIdentifiers".(šƒƒí
+qjavascript:S5850¡m"TGroup parts of the regex together to make the intended operator precedence explicit.(›ƒºØ
+Qjavascript:S1117Ôm"/'range' is already declared in the upper scope.(úŸ©ùÿÿÿÿ
+Hjavascript:S1117âm"+'i' is already declared in the upper scope.(¬ãİû
+gjavascript:S905õm"FExpected an assignment or function call and instead saw an expression.(€öïŠıÿÿÿÿ
+Vjavascript:S1121n"9Extract the assignment of "slotDir" from this expression.(„…íë
+Wjavascript:S1121¹n"5Extract the assignment of "vIf" from this expression.(ÂåÊ—üÿÿÿÿ
+Yjavascript:S1121½n"7Extract the assignment of "vElse" from this expression.(ÎåÔÃøÿÿÿÿ
+:javascript:S2310Ên"Remove this assignment of "i".(¨…ÄK
+Xjavascript:S1121Øn"6Extract the assignment of "vFor" from this expression.(ÂÊ¹…úÿÿÿÿ
+Tjavascript:S1117øn"2'children' is already declared in the upper scope.(¥›ûÿÿÿÿ
+Kjavascript:S1117„o".'node' is already declared in the upper scope.(±Úê…
+`javascript:S3358o"DExtract this nested ternary operation into an independent statement.(·°Ók
+ijavascript:S4138­o"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥½¬¿
+njavascript:S1226Óo"LIntroduce a new variable or use its initial value before reassigning "node".(½şÁÅÿÿÿÿÿ
+Wjavascript:S1117Úo"5'isComponent' is already declared in the upper scope.(Õé…Öüÿÿÿÿ
+Ijavascript:S1125Øp"'Remove the unnecessary boolean literal.(‰úƒÏÿÿÿÿÿ
+Qjavascript:S1135ëp"4Complete the task associated to this "TODO" comment.(Š¨½Î
+?javascript:S1788€q""Default parameters should be last.(æÜ‹
+Rjavascript:S1117€q"5'isComponent' is already declared in the upper scope.(æÜ‹
+ijavascript:S4138Àq"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ƒÅñ†
+Qjavascript:S1117›r"/'props' is already declared in the upper scope.(»£Ïûÿÿÿÿ
+ijavascript:S4138¥s"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(üòµ²
+ijavascript:S4138“t"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ş¯õ
+Mjavascript:S1117”t"+'p' is already declared in the upper scope.(ˆˆå‘şÿÿÿÿ
+vjavascript:S5843ºt"TSimplify this regular expression to reduce its complexity from 40 to the 20 allowed.(¦Ìœ¬ûÿÿÿÿ
+Ljavascript:S5869ºt"*Remove duplicates in this character class.(¦Ìœ¬ûÿÿÿÿ
+Qjavascript:S1135Ät"4Complete the task associated to this "TODO" comment.(Ëœõ
+Yjavascript:S4624ôt"7Refactor this code to not use nested template literals.(ÿìèöüÿÿÿÿ
+Yjavascript:S4624ôt"7Refactor this code to not use nested template literals.(ÿìèöüÿÿÿÿ
+Yjavascript:S4624ôt"7Refactor this code to not use nested template literals.(ÿìèöüÿÿÿÿ
+Yjavascript:S4624ôt"7Refactor this code to not use nested template literals.(ÿìèöüÿÿÿÿ
+Mjavascript:S1117Šu"+'p' is already declared in the upper scope.(ª¹õƒûÿÿÿÿ
+;javascript:S2310æu"Remove this assignment of "j".(Â¨•ù
+Mjavascript:S1117ıu"+'p' is already declared in the upper scope.(å¢íõüÿÿÿÿ
+Ijavascript:S1125‚v"'Remove the unnecessary boolean literal.(ŸÊî¡øÿÿÿÿ
+gjavascript:S905¿v"FExpected an assignment or function call and instead saw an expression.(Ò¾†®üÿÿÿÿ
+Djavascript:S1125Àv"'Remove the unnecessary boolean literal.(‚îô
+fjavascript:S3358Èv"DExtract this nested ternary operation into an independent statement.(Ñšèøÿÿÿÿ
+fjavascript:S3358áv"DExtract this nested ternary operation into an independent statement.(Ñšèøÿÿÿÿ
+›javascript:S1172ˆw"yRemove the unused function parameter "prefixIdentifiers" or rename it to "_prefixIdentifiers" to make intention explicit.(’ç¤úÿÿÿÿ
+Djavascript:S1125¬w"'Remove the unnecessary boolean literal.(¤­¨°
+Hjavascript:S1117·x"+'p' is already declared in the upper scope.(ìËëÖ
+fjavascript:S3358øx"DExtract this nested ternary operation into an independent statement.(²Ô™®øÿÿÿÿ
+Hjavascript:S1117Îy"+'p' is already declared in the upper scope.(ÃÙ¶
+‚javascript:S1172Şy"eRemove the unused function parameter "context" or rename it to "_context" to make intention explicit.(Ã®²³
+zjavascript:S1172Şy"]Remove the unused function parameter "loc" or rename it to "_loc" to make intention explicit.(Ã®²³
+njavascript:S4138ây"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(“¡¾¨úÿÿÿÿ
+fjavascript:S3358z"DExtract this nested ternary operation into an independent statement.(²‹»÷ÿÿÿÿÿ
+{javascript:S1172¿z"_Remove the unused function parameter "node" or rename it to "_node" to make intention explicit.(…£ÙT
+Hjavascript:S1117ßz"+'p' is already declared in the upper scope.(ÑÚãš
+Mjavascript:S1117Ğ{"0'render' is already declared in the upper scope.(´ÜÉ€
+`javascript:S1121Ò{"CExtract the assignment of "compileCache[key]" from this expression.(Âã³×

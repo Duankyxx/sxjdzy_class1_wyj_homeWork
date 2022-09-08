@@ -1,0 +1,271 @@
+//基本设置
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f3f3f3;
+}
+#app {
+  width: 100%;
+  height: 100vh;
+  background-color: #f3f3f3;
+}
+div{
+  transition: 500ms;
+}
+
+
+/**
+因为设计时并不知道item需要多长
+按照800，530~799，529设计时发现这样很丑，所以改了一下响应断点
+1040,600~1039,599
+ */
+
+//1040
+@media (min-width: 1040px) {
+  #content {
+    //容器大小及其样式设定
+    height: 500px;
+
+    //页面过小时
+    #search {
+      display: none;
+    }
+
+    #title {
+      width: 100%;
+      height: 150px;
+      font-size: 30px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #cont {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      //列表容器
+      &>div {
+        display: inline-block;
+        height: 200px;
+        &>div {
+          height: 200px;
+
+          //items
+          &>div {
+            float: left;
+            width: 170px;
+            height: 200px;
+            transition: 500ms;
+            display: flex;
+            flex-direction: column;
+            &:hover {
+              height: 240px;
+            }
+
+            //图标和title样式及其大小设计
+            div:nth-child(1) {
+              width: 100%;
+              height: 60%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+
+              div {
+                width: 40px;
+                height: 40px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(255, 255, 255, 0.3);
+                border-radius: 50%;
+              }
+            }
+            div:nth-child(2) {
+              width: 100%;
+              height: 40%;
+              display: flex;
+              justify-content: center;
+              color: #d3d3d3;
+              font-size: 20px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+//600~1039
+@media (min-width: 600px) and (max-width: 1039px) {
+  #content {
+    //容器大小及其样式设定
+    height: 500px;
+
+    //页面过小时
+    #search {
+      display: none;
+    }
+
+    #title {
+      width: 100%;
+      height: 150px;
+      font-size: 30px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #cont {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      //列表容器
+      &>div {
+        display: inline-block;
+        height: 200px;
+        &>div {
+          width: 600px;
+
+          //items
+          &>div {
+            float: left;
+            width: 300px;
+            height: 100px;
+            display: flex;
+            flex-direction: row;
+            &:hover div:nth-child(1)>div {
+              width: 60px;
+              height: 60px;
+            }
+            &:hover div:nth-child(2) {
+              color: #f3f3f3;
+            }
+
+            //图标和title样式及其大小设计
+            div:nth-child(1) {
+              width: 40%;
+              height: 100%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+
+              div {
+                width: 40px;
+                height: 40px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(255, 255, 255, 0.3);
+                border-radius: 50%;
+              }
+            }
+            div:nth-child(2) {
+              width: 60%;
+              height: 100%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              color: #d3d3d3;
+              font-size: 20px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+//599
+@media (max-width: 599px) {
+  #content {
+    //容器大小及其样式设定
+    padding-bottom: 50px;
+
+    //页面过小时
+    #search {
+      display: block;
+      margin: 20px;
+    }
+
+    #title {
+      width: 100%;
+      height: 150px;
+      font-size: 30px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #cont {
+      overflow: hidden;
+      display: none;
+      width: 100%;
+      justify-content: center;
+      align-items: center;
+
+      //列表容器
+      &>div {
+        display: inline-block;
+        &>div {
+          width: 400px;
+
+          //items
+          &>div {
+            float: left;
+            width: 400px;
+            height: 80px;
+            display: flex;
+            flex-direction: row;
+            &:hover div:nth-child(1)>div {
+              width: 60px;
+              height: 60px;
+            }
+            &:hover div:nth-child(2) {
+              color: #f3f3f3;
+            }
+
+            //图标和title样式及其大小设计
+            div:nth-child(1) {
+              width: 40%;
+              height: 100%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+
+              div {
+                width: 40px;
+                height: 40px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgba(255, 255, 255, 0.3);
+                border-radius: 50%;
+              }
+            }
+            div:nth-child(2) {
+              width: 60%;
+              height: 100%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              color: #d3d3d3;
+              font-size: 20px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

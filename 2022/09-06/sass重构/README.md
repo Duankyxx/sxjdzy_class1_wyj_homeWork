@@ -1,0 +1,1 @@
+# public目录下index.html直接运行

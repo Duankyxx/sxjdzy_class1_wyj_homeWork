@@ -190,7 +190,7 @@ var Vue = (function (exports) {
   // https://developer.mozilla.org/en-US/docs/Web/HTML/Element
   const HTML_TAGS = 'html,body,base,head,link,meta,style,title,address,article,aside,footer,' +
       'header,h1,h2,h3,h4,h5,h6,nav,section,div,dd,dl,dt,figcaption,' +
-      'figure,picture,hr,img,li,main,ol,p,pre,ul,a,b,abbr,bdi,bdo,br,cite,code,' +
+      'figure,picture,hr,image,li,main,ol,p,pre,ul,a,b,abbr,bdi,bdo,br,cite,code,' +
       'data,dfn,em,i,kbd,mark,q,rp,rt,ruby,s,samp,small,span,strong,sub,sup,' +
       'time,u,var,wbr,area,audio,map,track,video,embed,object,param,source,' +
       'canvas,script,noscript,del,ins,caption,col,colgroup,table,thead,tbody,td,' +
@@ -208,7 +208,7 @@ var Vue = (function (exports) {
       'mesh,meshgradient,meshpatch,meshrow,metadata,mpath,path,pattern,' +
       'polygon,polyline,radialGradient,rect,set,solidcolor,stop,switch,symbol,' +
       'text,textPath,title,tspan,unknown,use,view';
-  const VOID_TAGS = 'area,base,br,col,embed,hr,img,input,link,meta,param,source,track,wbr';
+  const VOID_TAGS = 'area,base,br,col,embed,hr,image,input,link,meta,param,source,track,wbr';
   /**
    * Compiler only.
    * Do NOT use in runtime code paths unless behind `true` flag.
@@ -9571,7 +9571,7 @@ var Vue = (function (exports) {
               needRemove = true;
           }
           else if (type === 'number') {
-              // e.g. <img :width="null">
+              // e.g. <image :width="null">
               // the value of some IDL attr must be greater than 0, e.g. input.size = 0 -> error
               value = 0;
               needRemove = true;

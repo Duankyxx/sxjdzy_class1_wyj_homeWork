@@ -6,10 +6,52 @@
     <link rel="stylesheet" href="./bootstrap/bootstrap.css">
     <script src="./bootstrap/jquery-3.6.1.min.js"></script>
     <script src="./bootstrap/bootstrap.bundle.js"></script>
+    <style>
+        #menu {
+            background-color: rgb(52,58,64);
+        }
+        #menu>a {
+            color: white;
+        }
+    </style>
 </head>
 <body>
-    <div>
+<nav class="navbar navbar-expand-lg navbar-light" id="menu">
+    <a class="navbar-brand" href="#"><img alt="" src="./image/vscode.png">Visual Studio Code</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
 
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">Doce</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">Updates</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">Blog</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">API</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">Extensions</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">Learn</a>
+            </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <ul class="">
+                <li>登陆</li>
+                <li>注册</li>
+            </ul>
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        </form>
     </div>
+</nav>
 </body>
 </html>

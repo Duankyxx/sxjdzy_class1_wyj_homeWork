@@ -2,14 +2,75 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title></title>
     <link rel="stylesheet" href="./bootstrap/bootstrap.css">
     <script src="./bootstrap/jquery-3.6.1.min.js"></script>
     <script src="./bootstrap/bootstrap.bundle.js"></script>
+    <style>
+        #menu {
+            background-color:#3f3f3f;
+        }
+        #menu>a {
+            color: white;
+        }
+        @media (max-width: 991px) {
+            #login {
+                right: 100px;
+            }
+        }
+        @media (min-width: 992px) {
+            #login {
+                right: 300px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <div>
+<nav class="navbar navbar-expand-lg navbar-light" id="menu">
+    <a class="navbar-brand" href="#"><img alt="" src="./image/logoMsg.png"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
 
+    <ul class="d-flex" style="list-style-type: none; position: absolute; top: 20px" id="login">
+        <li class="text-light m-3">登陆</li>
+        <li class="text-light m-3">注册</li>
+    </ul>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">全国</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                    演出
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">1</a>
+                    <a class="dropdown-item" href="#">2</a>
+                    <a class="dropdown-item" href="#">3</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">电影</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-light" href="#">我的微票</a>
+            </li>
+        </ul>
+
+        <form class="form-inline my-2 my-lg-0 order-md-1">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="请输入你想输入的内容" aria-label="请输入你想输入的内容?" aria-describedby="button-addon2">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="button" id="button-addon2">搜索</button>
+                </div>
+            </div>
+        </form>
     </div>
+</nav>
 </body>
 </html>
